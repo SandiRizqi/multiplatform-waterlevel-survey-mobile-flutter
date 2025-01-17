@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165387953856",
+    "project_id": "tmat-96256",
+    "storage_bucket": "tmat-96256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165387953856:android:480ffc158f0c37b9b3ef25",
+        "android_client_info": {
+          "package_name": "com.example.starterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEf6RNOEJbq_9syC7NbQznDz_hEVgwJWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
